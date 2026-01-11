@@ -281,8 +281,8 @@ The system follows a 4-layer IoT architecture:
 ## 📁 Project Structure
 ```
 greenhouse-iot-system/
-├── src/
-│   ├── greenhouse_system.ino      # Main Arduino sketch
+├── cpc357 project Greenhouse/
+│   ├── Greenhouse.ino      # Main Arduino sketch
 │   ├── VOneMqttClient.cpp         # V-One MQTT client implementation
 │   ├── VOneMqttClient.h           # V-One client header
 │   └── vonesetting.h              # WiFi and V-One credentials
