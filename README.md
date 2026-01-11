@@ -323,7 +323,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📺 Demo Video
 
-[Link to YouTube Demo Video](YOUR_YOUTUBE_LINK_HERE)
+[Link to YouTube Demo Video](https://youtu.be/G49kN8Zl5Ss)
 
 The video demonstrates:
 - System overview and architecture
